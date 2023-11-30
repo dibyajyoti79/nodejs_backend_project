@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_backend_project",
+  "version": "1.0.0",
+  "description": "an advanced backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "express"
+  ],
+  "author": "Dibyajyoti Mahuri",
+  "license": "ISC"
+}
